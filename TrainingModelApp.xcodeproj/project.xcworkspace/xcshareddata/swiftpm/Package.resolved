@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Charts",
+        "repositoryURL": "https://github.com/danielgindi/Charts.git",
+        "state": {
+          "branch": null,
+          "revision": "dbf7fa2891270f88aeafc872ea0beddb344af94b",
+          "version": "3.4.0"
+        }
+      },
+      {
+        "package": "SocketIO",
+        "repositoryURL": "https://github.com/socketio/socket.io-client-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "36db2ff0ebc7239187f9b382fd318e122da71caa",
+          "version": "15.2.0"
+        }
+      },
+      {
+        "package": "Starscream",
+        "repositoryURL": "https://github.com/daltoniam/Starscream",
+        "state": {
+          "branch": null,
+          "revision": "e6b65c6d9077ea48b4a7bdda8994a1d3c6969c8d",
+          "version": "3.1.1"
+        }
+      },
+      {
+        "package": "swift-nio-zlib-support",
+        "repositoryURL": "https://github.com/apple/swift-nio-zlib-support.git",
+        "state": {
+          "branch": null,
+          "revision": "37760e9a52030bb9011972c5213c3350fa9d41fd",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SwiftCSV",
+        "repositoryURL": "https://github.com/swiftcsv/SwiftCSV.git",
+        "state": {
+          "branch": null,
+          "revision": "b581e5c364f5ea0f48d3073321b373afcf078bf8",
+          "version": "0.5.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
